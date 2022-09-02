@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello with rebase");
         System.out.println("Hello world!");
         System.out.println(2+2*2);
+        System.out.println("End!");
     }
 }
